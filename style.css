@@ -1,0 +1,32 @@
+.buy-now-button{
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 10px 10px;
+    font-size: 10px;
+}
+.navbar-brand{
+    margin-right:400px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.centerize{
+    text-align: center;
+}
+.text-right{
+    float: right;
+    font-size:10px;
+    color:rgb(6, 248, 38);
+}
+.phone-margin{
+    padding: 20px 30px;
+}
+.border-shadow{
+    box-shadow: 5px 5px 10px gray;
+    padding: 20px 20px 10px 20px;
+}
+.img-fluid{
+    padding-bottom: 20px;
+}
